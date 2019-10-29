@@ -1,7 +1,7 @@
 <template>
   <div>
 12321321
-    vue双向绑定的原理
+    vue双向绑定
   </div>
 </template>
 
